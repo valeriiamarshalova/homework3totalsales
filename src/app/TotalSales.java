@@ -5,8 +5,6 @@ public class TotalSales {
     static double numPrice;
     static int numQuantity;
     static double res1;
-    static double res2;
-
 
     public static void main(String[] args){
 
